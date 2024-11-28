@@ -9,6 +9,12 @@ This project is a WiFi collector using the ESP32 microcontroller. It scans for a
 - Display collected data on a web interface (not yet fully working/buggy)
 - Save collected data to a file (not yet fully supported)
 
+## Media
+
+![SerialMonitor](/images/SerialMonitor.png)
+
+Serial Monitor Screenshot
+
 ## Requirements
 
 - ESP32 development board
