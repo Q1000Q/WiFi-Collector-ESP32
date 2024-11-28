@@ -25,7 +25,7 @@ Serial Monitor Screenshot
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/WiFi-Collector-ESP32.git
+    git clone https://github.com/q1000q/WiFi-Collector-ESP32.git
     ```
 2. Open the project with PlatformIO.
 3. Build and upload the project to your ESP32 board.
